@@ -28,3 +28,5 @@ Bao gồm:
 ![](https://github.com/Iamthankyou/schedulingpagereplace/blob/master/Screenshot%20(77).png?raw=true)
 
 Cảm ơn !
+
+![Visualization of the codebase](./diagram.svg)
